@@ -4,7 +4,7 @@
   "description": "An experimental module to demmonstrate usage of @akaustav/npm-demo-pkg npm module.",
   "main": "test.js",
   "dependencies": {
-    "@akaustav/npm-demo-pkg": "^3.0.0"
+    "@akaustav/npm-demo-pkg": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
