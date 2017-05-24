@@ -1,3 +1,3 @@
 const demo = require('@akaustav/npm-demo-pkg');
 
-demo.printMsg();
+demo.printMsg('cyan');
